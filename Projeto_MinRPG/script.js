@@ -55,7 +55,7 @@ function rodarFase(fase) {
 
 
 function iniciarJogo() {
-    alert("Bem-vindo ao RPG de Níveis!");
+    alert("Bem-vindo ao MiniRPG!");
     for (let i = 1; i <= 5; i++) {
         rodarFase(i);
     }
